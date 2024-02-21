@@ -2,9 +2,7 @@ function greet(firstname, lastname, language = 'en'){
     console.log(firstname);
     console.log(lastname);
     console.log(language);
-    console.log('-----------------');
-    console.log('hola');    
-    console.log('chau');
+
 }
 
 greet();
