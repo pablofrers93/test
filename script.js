@@ -3,6 +3,7 @@ function greet(firstname, lastname, language = 'en'){
     console.log(lastname);
     console.log(language);
     console.log('-----------------');
+    console.log('hola');    
 }
 
 greet();
